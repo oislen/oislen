@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oislen
 - 👀 I’m interested in data science and engineering
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently building up a portfolio
 - 💞️ I’m looking to collaborate on new and interesting data related projects
 - 📫 Reach me on Linkedin here https://www.linkedin.com/in/oisin-leonard-aa9686131/
 
